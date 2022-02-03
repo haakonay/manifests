@@ -1,0 +1,4 @@
+package { "jed":
+	ensure => present,
+}
+
